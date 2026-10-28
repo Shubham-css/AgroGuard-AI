@@ -1,0 +1,9 @@
+{
+    "model": "Custom CNN",
+    "accuracy": 0.3604004449388209,
+    "macro_precision": 0.31719797563468255,
+    "macro_recall": 0.26291334082328083,
+    "macro_f1": 0.23974472074042624,
+    "training_time_minutes": 7.65,
+    "model_size_mb": 1.34
+}

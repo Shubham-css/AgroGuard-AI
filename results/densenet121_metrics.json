@@ -1,0 +1,9 @@
+{
+    "model": "DenseNet121",
+    "accuracy": 0.9733036707452726,
+    "macro_precision": 0.97444829665349,
+    "macro_recall": 0.9757141883102298,
+    "macro_f1": 0.9749019563962572,
+    "training_time_minutes": 3.82,
+    "model_size_mb": 28.47
+}

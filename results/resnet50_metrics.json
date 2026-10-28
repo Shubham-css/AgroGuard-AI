@@ -1,0 +1,8 @@
+{
+  "Model": "ResNet50",
+  "Test Accuracy": 0.9610678531701891,
+  "Macro Precision": 0.9616800293599598,
+  "Macro Recall": 0.960938147692778,
+  "Macro F1": 0.9609716024143203,
+  "Training Time (min)": 5.19
+}

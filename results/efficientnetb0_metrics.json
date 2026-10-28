@@ -1,0 +1,8 @@
+{
+  "Model": "EfficientNetB0",
+  "Test Accuracy": 0.9755283648498332,
+  "Macro Precision": 0.9754864412195523,
+  "Macro Recall": 0.9804273418673987,
+  "Macro F1": 0.9777204726719193,
+  "Training Time (min)": 4.27
+}

@@ -1,0 +1,8 @@
+{
+  "Model": "MobileNetV2",
+  "Test Accuracy": 0.9621802002224694,
+  "Macro Precision": 0.9651305314455402,
+  "Macro Recall": 0.9674629032583829,
+  "Macro F1": 0.9658539454922493,
+  "Training Time (min)": 2.13
+}
