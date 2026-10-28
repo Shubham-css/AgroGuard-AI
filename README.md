@@ -129,27 +129,6 @@ The recorded dataset contains **9,084 images** across **15 animal classes**.
 | Test | 899 |
 | **Total** | **9,084** |
 
-### Animal Classes
-
-1. Armadilles
-2. Bear
-3. Birds
-4. Cow
-5. Crocodile
-6. Deer
-7. Elephant
-8. Goat
-9. Horse
-10. Jaguar
-11. Monkey
-12. Rabbit
-13. Skunk
-14. Tiger
-15. Wild Boar
-
-> **Dataset note:** Add the original dataset source, attribution, and license before redistributing dataset content.
-
----
 
 ## 🏗️ Project Architecture
 
